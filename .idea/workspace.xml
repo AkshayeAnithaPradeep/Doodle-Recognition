@@ -2,53 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="dce183d9-f13e-458b-80cc-204000b83f8e" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/app/asset-manifest.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/favicon.ico" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/manifest.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/precache-manifest.0856baf97b2d8cab46419e140631832d.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/precache-manifest.0c9a12704ed00f138b2761824888f8e8.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/precache-manifest.20747b08567705c0995ed879eb44f83d.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/precache-manifest.2fc8e91828a627875230aa9887bb4326.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/precache-manifest.39664df821657e85edd805dd969afec8.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/precache-manifest.53ff97fb309ce9d95bf66060c47723e9.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/precache-manifest.5f2de4db4836e9c1ecc750567790b21e.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/precache-manifest.86a5b94bcf3dd7079d66e049a0a49ae3.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/precache-manifest.ab82a4af629b9deb4bdb1979e6ccf81d.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/precache-manifest.c4edddb7f0e2ec9ca8b64f9c64351d8b.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/precache-manifest.cd945ad64b555ff7a19633e28f2dcbd3.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/precache-manifest.d8d700ccdcd7ae8629d0e027e6279657.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/precache-manifest.e1202e6362424d87244db5351d94b8f6.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/precache-manifest.e13a42bd24ac5b72c4da6b51f9c01be9.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/precache-manifest.e41a416f80dc164af1a63427d664dfce.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/service-worker.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/static/client.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/static/css/main.0332c7f0.chunk.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/static/css/main.0332c7f0.chunk.css.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/static/js/2.46df0ec5.chunk.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/static/js/2.46df0ec5.chunk.js.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/static/js/2.cc70d416.chunk.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/static/js/2.cc70d416.chunk.js.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/static/js/main.2b6f010c.chunk.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/static/js/main.2b6f010c.chunk.js.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/static/js/main.3ac69215.chunk.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/static/js/main.3ac69215.chunk.js.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/static/js/main.5815385b.chunk.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/static/js/main.5815385b.chunk.js.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/static/js/main.5a7e860e.chunk.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/static/js/main.5a7e860e.chunk.js.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/static/js/main.927abc17.chunk.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/static/js/main.927abc17.chunk.js.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/static/js/main.94866a82.chunk.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/static/js/main.94866a82.chunk.js.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/static/js/main.b106aa32.chunk.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/static/js/main.b106aa32.chunk.js.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/static/js/main.ddbc4dc9.chunk.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/static/js/main.ddbc4dc9.chunk.js.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/static/js/runtime~main.fdfcfda2.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/static/js/runtime~main.fdfcfda2.js.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/static/style.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/view/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -75,13 +29,23 @@
           <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/requirements.txt">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="135">
               <caret line="9" column="5" selection-start-line="9" selection-start-column="5" selection-end-line="9" selection-end-column="5" />
             </state>
           </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/manifest.json">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/app/asset-manifest.json">
+          <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
@@ -200,16 +164,15 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1555461741587</updated>
-      <workItem from="1555461743046" duration="5449000" />
+      <workItem from="1555461743046" duration="6386000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="5449000" />
+    <option name="totallyTimeSpent" value="6386000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1440" height="900" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info id="Favorites" side_tool="true" />
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24947146" />
@@ -262,9 +225,6 @@
     <entry file="file://$PROJECT_DIR$/app/static/style.css">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/static/js/2.46df0ec5.chunk.js">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/README.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
@@ -282,9 +242,6 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/app/favicon.ico">
       <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/asset-manifest.json">
-      <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$APPLICATION_HOME_DIR$/plugins/JavaScriptLanguage/jsLanguageServicesImpl/external/lib.webworker.d.ts">
       <provider selected="true" editor-type-id="text-editor">
@@ -308,12 +265,21 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/app/static/js/2.46df0ec5.chunk.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
     <entry file="file://$PROJECT_DIR$/requirements.txt">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="135">
           <caret line="9" column="5" selection-start-line="9" selection-start-column="5" selection-end-line="9" selection-end-column="5" />
         </state>
       </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/manifest.json">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/asset-manifest.json">
+      <provider selected="true" editor-type-id="text-editor" />
     </entry>
   </component>
 </project>
