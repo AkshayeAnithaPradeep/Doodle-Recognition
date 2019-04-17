@@ -9,10 +9,10 @@ from fastai import *
 from fastai.vision import *
 
 # export_file_url = 'https://www.dropbox.com/s/v6cuuvddq73d1e0/export.pkl?raw=1'
-export_file_url = 'https://www.dropbox.com/s/6bgq8t6yextloqp/export.pkl?raw=1'
+export_file_url = 'https://drive.google.com/uc?export=download&id=1DqBA25cv0dS3qSCs5mOqd7TURU24hIWN'
 export_file_name = 'export.pkl'
 
-classes = ['black', 'grizzly', 'teddys']
+classes = ['apple', 'bat', 'bathtub', 'bed', 'bird', 'bridge', 'bus', 'bush', 'camel', 'car', 'ceiling_fan', 'cell_phone', 'coffee_cup', 'computer', 'cookie', 'donut', 'ear', 'eye', 'fence', 'flower', 'foot', 'hand', 'helicopter', 'horse', 'hot_air_balloon', 'key', 'ladder', 'lighthouse', 'mermaid', 'microphone', 'monkey', 'octopus', 'palm_tree', 'pants', 'paper_clip', 'piano', 'pig', 'rabbit', 'rain', 'scorpion', 'shoe', 'skateboard', 'squirrel', 'sweater', 'swing_set', 'tornado', 'truck', 'vase', 'wine_bottle']
 path = Path(__file__).parent
 
 app = Starlette()
