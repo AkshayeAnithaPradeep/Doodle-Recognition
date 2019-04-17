@@ -46,7 +46,7 @@ loop.close()
 
 @app.route('/')
 def index(request):
-    html = path/'index.html'
+    html = path/'view'/'index.html'
     return HTMLResponse(html.open().read())
 
 @app.route('/analyze', methods=['POST'])
