@@ -1,6 +1,6 @@
 {
   "short_name": "Doodle Recognition",
-  "name": "Application that recognized doodles.",
+  "name": "Application to detect Doodles.",
   "icons": [
     {
       "src": "favicon.ico",
